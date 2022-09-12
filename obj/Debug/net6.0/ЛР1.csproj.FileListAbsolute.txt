@@ -1,0 +1,15 @@
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/bin/Debug/net6.0/ЛР1
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/bin/Debug/net6.0/ЛР1.deps.json
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/bin/Debug/net6.0/ЛР1.runtimeconfig.json
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/bin/Debug/net6.0/ЛР1.dll
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/bin/Debug/net6.0/ЛР1.pdb
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.csproj.AssemblyReference.cache
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.AssemblyInfoInputs.cache
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.AssemblyInfo.cs
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.csproj.CoreCompileInputs.cache
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.dll
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/refint/ЛР1.dll
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.pdb
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ЛР1.genruntimeconfig.cache
+/Users/bogdanlachinov/Desktop/ТРПО/ЛР1/ЛР1/obj/Debug/net6.0/ref/ЛР1.dll
