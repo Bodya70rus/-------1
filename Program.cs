@@ -3,24 +3,7 @@ namespace ЛР1
 {
     class Program
     {
-        static void Vertical(ref int[,] matrix)
-        {
-            for (int i = 0; i < matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < matrix.GetLength(1); j++)
-                {
-                    if (((j == 1 || j == 14) && (i != 0 && i != 24)) ||
-                        (j == 10 && ((i >= 1 && i <= 3) || (i >= 12 && i <= 23))) ||
-                        (j == 20 && i >= 1 && i <= 12) ||
-                        (j == 23 && i >= 12 && i <= 23))
-                    {
-                        matrix[i, j] = 0;
-                    }
-                }
-            }
-        }
-
-        static void Horizontal(ref int[,] matrix)
+        static void Initialing(ref int[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
@@ -28,7 +11,11 @@ namespace ЛР1
                 {
                     if ((i == 1 && ((j >= 1 && j <= 10) || (j >= 14 && j <= 20))) ||
                         (i == 12 && ((j >= 1 && j <= 10) || (j >= 14 && j <= 23))) ||
-                        (i == 23 && ((j >= 1 && j <= 10) || (j >= 14 && j <= 23))))
+                        (i == 23 && ((j >= 1 && j <= 10) || (j >= 14 && j <= 23))) ||
+                        ((j == 1 || j == 14) && (i != 0 && i != 24)) ||
+                        (j == 10 && ((i >= 1 && i <= 3) || (i >= 12 && i <= 23))) ||
+                        (j == 20 && i >= 1 && i <= 12) ||
+                        (j == 23 && i >= 12 && i <= 23))
                     {
                         matrix[i, j] = 0;
                     }
@@ -74,8 +61,7 @@ namespace ЛР1
                 Console.WriteLine();
             }
 
-            Vertical(ref matrix);
-            Horizontal(ref matrix);
+            Initialing(ref matrix);
             PrintMatrix(matrix);
 
             Console.ReadKey();
